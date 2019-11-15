@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+
+* First execute download.sh in translforfren to download the model checkpoints.
 * Create a container based on the Dockerfile. Maps API endpoints to port 8000 of host machine
 * Access FastAPI docs with http://0.0.0.0:8000/docs
 
